@@ -1,4 +1,4 @@
-# 修改自 [Keldos-Li 的 将 Typora 伪装成 LaTeX 的中文样式主题](https://github.com/Keldos-Li/typora-latex-theme)，将所有层级标题均进行多极列表编号。
+# 修改自 [Keldos-Li 的 将 Typora 伪装成 LaTeX 的中文样式主题](https://github.com/Keldos-Li/typora-latex-theme)，将所有层级标题均进行多级列表编号。
 
 ## Light mode
 
